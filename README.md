@@ -1,14 +1,12 @@
-# Reliability-of-News-and-Toxicity-in-Twitter-Conversations
-
 <p align="center">
 <img src=https://github.com/AMLSapienza/Final_Project/blob/main/data/sapienza_logo.jpg width="100"/>
  </p>
   
   <p align="center">
-  <b>Reliability-of-News-and-Toxicity-in-Twitter-Conversations<br />
+  <b>Reliability of News and Toxicity in Twitter Conversations<br />
 La Sapienza University of Rome <br />
-MSC IN DATA SCIENCE<b>  <br />
-Alessandro Quattrociocchi
+<b>  <br />
+Alessandro Quattrociocchi, Gabriele Etta, Michele Avalle, Matteo Cinelli, Walter Quattrociocchi
 </p>
   
   
